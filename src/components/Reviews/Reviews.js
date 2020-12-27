@@ -15,7 +15,7 @@ export default function Reviews() {
 
   return review && !review.total_pages ? (
     <p className={s.movieDescriptionText}>
-      We don't have an reviews for this movie
+      We don't have any reviews for this movie
     </p>
   ) : (
     <ul>
