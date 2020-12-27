@@ -1,0 +1,14 @@
+.movieDetails {
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: flex-start;
+  border-bottom: 1px solid black;
+}
+
+.movieImage {
+  margin-right: 20px;
+}
+
+.movieInformation {
+  border-bottom: 1px solid black;
+}
